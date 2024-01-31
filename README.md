@@ -7,4 +7,4 @@ I actually did not do this project entirely myself, but I got help from a youtub
      HTML
      CSS
      JavaScript
-#How it looks 🎥
+#How it looks 🎥  https://github.com/anurag87204/CHAT-BOT/assets/84726281/87cc04c3-bbf7-466c-99e9-af3b3b1183a7
